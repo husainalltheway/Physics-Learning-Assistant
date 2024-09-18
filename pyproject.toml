@@ -1,0 +1,24 @@
+[tool.poetry]
+name = "physics-learning-assistant"
+version = "0.1.0"
+description = ""
+authors = ["husainkhalid <khalid.husain@tecdune.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+streamlit = "^1.38.0"
+requests = "^2.32.3"
+sentence-transformers = "^3.0.1"
+llama-index = "^0.11.8"
+ollama = "^0.3.3"
+llama-parse = "^0.5.5"
+python-dotenv = "^1.0.1"
+llama-index-embeddings-huggingface = "^0.3.1"
+transformers = "^4.44.2"
+qdrant-client = "^1.11.2"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
