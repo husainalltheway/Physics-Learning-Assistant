@@ -29,8 +29,8 @@ These instructions will help you set up the project on your local machine.
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/yourproject.git
-   cd yourproject
+   git clone https://github.com/husainalltheway/Physics-Learning-Assistant.git
+   cd Phycics Learning Assistant
    ```
 
 2. **Create a virtual environment**:
